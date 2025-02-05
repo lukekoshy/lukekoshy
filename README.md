@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luke Sajeev Koshy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/lukekoshy](https://github.com/lukekoshy)
+
 - 📫 How to reach me **lukeskoshy@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/luke-sajeev-koshy-51835526a/](https://www.linkedin.com/in/luke-sajeev-koshy-51835526a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
